@@ -1,0 +1,80 @@
+
+
+#container {
+	
+	width:720px;
+	text-align:justify;
+	background-color: #fff;
+	margin: auto;
+}
+
+body {
+	
+	background-color: #cccccc;
+	font-family: Verdana;
+	font-size: 11px;
+}
+
+p:first-letter {
+	
+	color:blue;
+	font-weight:bold;
+	font-size:38px;
+	font-family:Times New Roman;
+	
+}
+
+#content {	
+			width:520px;
+			height:300px;
+			float:left;
+			background-color:#fff;
+			text-indent: 10px;
+			
+}
+
+#nav {
+			
+			width:200px;
+			height:300px;
+			float:left;
+			background-color:#e7e7e7;
+			
+}
+
+#header {
+	
+	text-indent:40px;
+	height:50px;
+	background-color:#b0b0b0;
+	line-height: 50px;
+}
+
+div p {padding:0 5px;}
+
+ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	
+}
+
+a{display:block;
+ width:200px;
+ height:39px;
+ line-height:40px;
+ color:#000000;
+ text-decoration:none;
+ font-size:12px;
+ background:url(images/rol.gif) no-repeat left bottom;
+ text-indent:39px;
+
+}
+
+a:hover {
+	background-position: right bottom;
+	color:white;
+	font-weight:bold;
+		
+}
+
